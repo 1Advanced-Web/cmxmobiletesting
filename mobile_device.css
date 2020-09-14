@@ -1,0 +1,20 @@
+.left_conteiner{
+		width: 520px;
+		height: 50px;
+
+	}
+	.logo{
+		display: none;
+	}
+	.content_one{
+		height: 300px;
+		width: 320px;
+		margin-left: 100px;
+		margin-top: 50px;
+	}
+	.basic{
+		display: none;
+	}
+	ul{
+		display: none;
+	}
